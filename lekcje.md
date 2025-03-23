@@ -8,11 +8,11 @@ permalink: /lekcje/
 
 <input type="text" id="searchInput" placeholder="Szukaj lekcji..." style="width: 100%; padding: 0.5rem; margin: 1rem 0;">
 
-<ul id="lessonList">
-{% assign lessons = site.pages | where_exp: "page", "page.permalink contains '/lessons/'" | sort: "title" %}
-{% for lesson in lessons %}
-  <li><a href="{{ lesson.permalink }}">{{ lesson.title }}</a></li>
-{% endfor %}
+<ul>
+  {% assign lessons = site.pages | where_exp: "page", "page.permalink contains '/lessons/'" | sort: "title" %}
+  {% for lesson in lessons %}
+    <li><a href="{{ lesson.url }}">{{ lesson.title }}</a></li>
+  {% endfor %}
 </ul>
 
 <script>
