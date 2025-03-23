@@ -1,0 +1,26 @@
+title: "Notatki z kursu JavaScript"
+description: "Materiały do nauki JavaScriptu – lekcje w formacie Markdown."
+baseurl: "" # <- zostaw puste, jeśli korzystasz z GitHub Pages i głównego repo
+url: "https://karol-may.github.io/js-kurs-notatki" # <- Twój adres GitHub Pages
+
+theme: minima # lub własny layout, jeśli chcesz dodać _layouts/default.html
+markdown: kramdown
+
+# Jekyll będzie działał z folderem docs/
+source: docs
+
+# Pliki i foldery do wykluczenia
+exclude:
+  - README.md
+  - .github
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+
+# Ustawienia Markdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
