@@ -11,9 +11,9 @@ Witaj! Poniżej znajdziesz listę lekcji z kursu JavaScript. Kliknij, aby rozpoc
 ---
 
 <ul>
-{% assign lessons = site.pages | where_exp: "page", "page.url contains '/lessons/'" | sort: "title" %}
+{% assign lessons = site.pages | where_exp: "page", "page.permalink contains '/lessons/'" | sort: "title" %}
 {% for lesson in lessons %}
-  <li><a href="{{ lesson.url }}">{{ lesson.title }}</a></li>
+  <li><a href="{{ lesson.permalink }}">{{ lesson.title }}</a></li>
 {% endfor %}
 </ul>
 
