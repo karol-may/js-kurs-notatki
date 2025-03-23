@@ -5,8 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2efd073f-5b90-4844-9681-73ab455d665d" name="Changes" comment="Usunięcie Jekyll">
-      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/0. Sylabus.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/0. Sylabus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/1. var-let-const-roznice.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/1. var-let-const-roznice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/10. tablice.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/10. tablice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/11. daty.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/11. daty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/12. obiekt-math.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/12. obiekt-math.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/13. porownania-logika.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/13. porownania-logika.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/14. if-else-switch.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/14. if-else-switch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/15. petle.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/15. petle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/16. zbiory-mapy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/16. zbiory-mapy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/17. konwersje-typu.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/17. konwersje-typu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/18. obsluga-bledow.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/18. obsluga-bledow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/19. json.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/19. json.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2.1. blok-kodu.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2.1. blok-kodu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/2.2. scope-hoisting.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2.2. scope-hoisting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/20. debugowanie.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/20. debugowanie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/21. funkcje-strzalkowe.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/21. funkcje-strzalkowe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/22. klasy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/22. klasy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/23. moduly.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/23. moduly.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/24. html-dom.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/24. html-dom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/25. browser-bom.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/25. browser-bom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/26.1. web-apis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.1. web-apis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/26.2. fetch.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.2. fetch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/26.3 Wysyłanie zapytania z tokenem JWT.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.3 Wysyłanie zapytania z tokenem JWT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/26.4. FormData odczyt i wysyłanie danych z formularza.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.4. FormData odczyt i wysyłanie danych z formularza.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/3. operatory.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/3. operatory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/4. typy-danych.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/4. typy-danych.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/5.1. funkcje.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/5.1. funkcje.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/5.2. async-await.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/5.2. async-await.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/5.3. promises.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/5.3. promises.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/6. obiekty.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/6. obiekty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/7. obsluga-zdarzen.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/7. obsluga-zdarzen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/8. ciagi-znakow.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/8. ciagi-znakow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/9. typy-numeryczne.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/9. typy-numeryczne.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +156,7 @@
       <updated>1742459369313</updated>
       <workItem from="1742459370257" duration="8401000" />
       <workItem from="1742570997622" duration="35609000" />
-      <workItem from="1742738457834" duration="12686000" />
+      <workItem from="1742738457834" duration="13143000" />
     </task>
     <task id="LOCAL-00001" summary="Dodano Sylabus">
       <option name="closed" value="true" />
@@ -343,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742756955233</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Usunięcie Jekyll">
+      <option name="closed" value="true" />
+      <created>1742757052680</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1742757052680</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
