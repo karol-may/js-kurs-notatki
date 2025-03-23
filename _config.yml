@@ -11,5 +11,8 @@ defaults:
     values:
       layout: page
 
-include:
-    - lessons
+collections:
+    pages:
+        output: true
+        permalink: /:path/
+
