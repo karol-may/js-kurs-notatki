@@ -3,3 +3,15 @@ description: Kurs JS publikowany z Jekyll na GitHub Pages
 theme: minima
 plugins:
   - jekyll-feed
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
