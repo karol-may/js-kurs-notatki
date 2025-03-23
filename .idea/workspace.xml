@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2efd073f-5b90-4844-9681-73ab455d665d" name="Changes" comment="Konfiguracja Jekyll">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-gh-pages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/home.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/dark-mode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/0. Sylabus.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/0. Sylabus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/1. var-let-const-roznice.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/1. var-let-const-roznice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/10. tablice.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/10. tablice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/11. daty.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/11. daty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/12. obiekt-math.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/12. obiekt-math.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/13. porownania-logika.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/13. porownania-logika.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/14. if-else-switch.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/14. if-else-switch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/15. petle.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/15. petle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/16. zbiory-mapy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/16. zbiory-mapy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/17. konwersje-typu.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/17. konwersje-typu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/18. obsluga-bledow.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/18. obsluga-bledow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/19. json.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/19. json.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/2.1. blok-kodu.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2.1. blok-kodu.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/2.2. scope-hoisting.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/2.2. scope-hoisting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/20. debugowanie.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/20. debugowanie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/21. funkcje-strzalkowe.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/21. funkcje-strzalkowe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/22. klasy.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/22. klasy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/23. moduly.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/23. moduly.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/24. html-dom.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/24. html-dom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/25. browser-bom.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/25. browser-bom.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/26.1. web-apis.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.1. web-apis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/26.2. fetch.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.2. fetch.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/26.3 Wysyłanie zapytania z tokenem JWT.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.3 Wysyłanie zapytania z tokenem JWT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/26.4. FormData odczyt i wysyłanie danych z formularza.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/26.4. FormData odczyt i wysyłanie danych z formularza.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/3. operatory.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/3. operatory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/4. typy-danych.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/4. typy-danych.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/5.1. funkcje.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/5.1. funkcje.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/5.2. async-await.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/5.2. async-await.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/5.3. promises.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/5.3. promises.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/6. obiekty.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/6. obiekty.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/7. obsluga-zdarzen.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/7. obsluga-zdarzen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/8. ciagi-znakow.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/8. ciagi-znakow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/9. typy-numeryczne.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/9. typy-numeryczne.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;karol-may&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/karol-may/js-kurs-notatki.git&quot;,
+    &quot;accountId&quot;: &quot;3cb1e4bb-f02f-4a2d-b790-56d4c9341db6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uZc7NPpyvO6putmi4v65jEVCH7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.14.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.13.10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karol/Desktop/js/_pages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;npm.test.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karol\Desktop\js\_pages" />
+      <recent name="C:\Users\karol\Desktop\js" />
+      <recent name="C:\Users\karol\Desktop\js\lekcje" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karol\Desktop\js" />
+      <recent name="C:\Users\karol\Desktop\js\_pages" />
+      <recent name="C:\Users\karol\Desktop\js\lekcje" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-WS-243.26053.12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2efd073f-5b90-4844-9681-73ab455d665d" name="Changes" comment="" />
+      <created>1742459369313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742459369313</updated>
+      <workItem from="1742459370257" duration="8401000" />
+      <workItem from="1742570997622" duration="35609000" />
+      <workItem from="1742738457834" duration="11527000" />
+    </task>
+    <task id="LOCAL-00001" summary="Dodano Sylabus">
+      <option name="closed" value="true" />
+      <created>1742740521586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742740521586</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dodano Sylabus">
+      <option name="closed" value="true" />
+      <created>1742740787348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742740787348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dodano Sylabus">
+      <option name="closed" value="true" />
+      <created>1742741029506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742741029506</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Dodano Sylabus">
+      <option name="closed" value="true" />
+      <created>1742741710603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742741710603</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Dodano Sylabus">
+      <option name="closed" value="true" />
+      <created>1742741720834</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742741720834</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Dodano Sylabus">
+      <option name="closed" value="true" />
+      <created>1742741797794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742741797794</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Dodano Jekyll">
+      <option name="closed" value="true" />
+      <created>1742742166605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742742166605</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Dodano Jekyll">
+      <option name="closed" value="true" />
+      <created>1742742929509</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1742742929509</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Dodano Jekyll">
+      <option name="closed" value="true" />
+      <created>1742743182054</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742743182054</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742746226411</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742746226411</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742746765243</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742746765243</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742746966602</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742746966602</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742747095912</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742747095912</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742747285320</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742747285320</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742748069968</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742748069968</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742748384895</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742748384895</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742749719121</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1742749719121</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742749847927</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1742749847927</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742749960805</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1742749960805</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742750100621</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1742750100621</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Konfiguracja Jekyll">
+      <option name="closed" value="true" />
+      <created>1742752614255</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1742752614255</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dodano Sylabus" />
+    <MESSAGE value="Dodano Jekyll" />
+    <MESSAGE value="Konfiguracja Jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Konfiguracja Jekyll" />
+  </component>
+</project>
