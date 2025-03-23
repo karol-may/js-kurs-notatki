@@ -1,0 +1,20 @@
+<!-- docs/_layouts/default.html -->
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+</head>
+<body>
+<header>
+    <h1><a href="{{ '/' | relative_url }}">Notatki z kursu JavaScript</a></h1>
+</header>
+<main>
+    {{ content }}
+</main>
+<footer>
+    <p>© {{ "now" | date: "%Y" }} Karol May</p>
+</footer>
+</body>
+</html>
